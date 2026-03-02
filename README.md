@@ -1,4 +1,4 @@
-# 🎮 Simon Says Game — Simple Edition
+# 🎮 Simon Says Game - Simple Edition
 
 A modern, interactive twist on the classic Simon Says memory game!  
 Test your memory, enjoy glowing button effects, and challenge yourself to beat your high score.
